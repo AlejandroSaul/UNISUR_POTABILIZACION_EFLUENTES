@@ -17,7 +17,7 @@ Este proyecto es desarrollado por estudiantes del **Doctorado en Sistemas Comput
 - **MTRA. ASUNCIÓN DEL ROSARIO CORDERO GARCÍA** - *Universidad Autónoma del Carmen, Campeche*
 - **MTRO. LUIS ÁNGEL MEDINA RODRÍGUEZ** - *Universidad Tecnológica y Politécnica del Valle del Carrizo*
 - **MTRO. ALEJANDRO SAÚL BAÑOS VEGA** - *Instituto Tecnológico Latinoamericano, Veracruz*
-- **MTRA. ADELINA MARTÍNEZ NIETO** - *Instituto Tecnológico de Oaxaca de Juárez*
+- **MTRA. ADELINA MARTÍNEZ NIETO** - *Instituto Tecnológico de Oaxaca, Oaxaca de Juárez*
 - **MTRO. FEDERICO ARMANDO ARIAS ZAMBRANO** - *Inst. Tecnológico Superior de Zapopan, Jalisco*
 
 **Asesor Académico:**  
