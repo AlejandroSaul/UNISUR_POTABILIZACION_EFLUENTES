@@ -16,7 +16,7 @@ Este proyecto es desarrollado por estudiantes del **Doctorado en Sistemas Comput
 - **MTRO. ISRAEL VIVEROS TORRES** - *Inst. Tecnológico Superior de Alvarado, Veracruz*
 - **MTRA. ASUNCIÓN DEL ROSARIO CORDERO GARCÍA** - *Universidad Autónoma del Carmen, Campeche*
 - **MTRO. LUIS ÁNGEL MEDINA RODRÍGUEZ** - *Universidad Tecnológica y Politécnica del Valle del Carrizo*
-- **MTRO. ALEJANDRO SAÚL BAÑOS VEGA** - *Instituto Tecnológico Latinoamericano, Veracruz*
+- **MTRO. ALEJANDRO SAÚL BAÑOS VEGA** - *Instituto Tecnológico Latinoamericano, Hidalgo*
 - **MTRA. ADELINA MARTÍNEZ NIETO** - *Instituto Tecnológico de Oaxaca, Oaxaca de Juárez*
 - **MTRO. FEDERICO ARMANDO ARIAS ZAMBRANO** - *Inst. Tecnológico Superior de Zapopan, Jalisco*
 
