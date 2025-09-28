@@ -7,7 +7,7 @@
 Este repositorio contiene el desarrollo de un sistema automatizado para la **clarificación y potabilización de efluentes contaminados**, utilizando **Moringa Oleífera** como floculante natural.  
 El proyecto se centra en ofrecer una solución **sostenible, de bajo costo y replicable** para comunidades rurales y zonas con recursos limitados.
 
-![Modelo isométrico del sistema, proyección sólida.](articulo/img/fig6.jpg)
+![Modelo isométrico del sistema, proyección sólida.](Articulo/img/fig6.jpg)
 
 ---
 
@@ -60,14 +60,14 @@ El proyecto se gestiona bajo el marco ágil **Scrum**, con entregables increment
 ---
 ## 📌 Cronograma
 
-![](articulo/img/fig5_1.jpg)
-![](articulo/img/fig5_2.jpg)
-![](articulo/img/fig5_3.jpg)
-![](articulo/img/fig5_4.jpg)
-![](articulo/img/fig5_5.jpg)
-![](articulo/img/fig5_6.jpg)
-![](articulo/img/fig5_7.jpg)
-![](articulo/img/fig5_8.jpg)
+![](Articulo/img/fig5_1.jpg)
+![](Articulo/img/fig5_2.jpg)
+![](Articulo/img/fig5_3.jpg)
+![](Articulo/img/fig5_4.jpg)
+![](Articulo/img/fig5_5.jpg)
+![](Articulo/img/fig5_6.jpg)
+![](Articulo/img/fig5_7.jpg)
+![](Articulo/img/fig5_8.jpg)
 
 
 
