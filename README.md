@@ -9,7 +9,8 @@ El proyecto se centra en ofrecer una solución **sostenible, de bajo costo y rep
 
 <!-- ![Modelo isométrico del sistema, proyección sólida.](Articulo/img/fig6.jpg){ width=50% }-->
 <img src="Articulo/img/fig6.jpg" alt="Modelo isométrico del sistema, proyección sólida." width="40%">
-**Modelo isométrico del sistema, proyección sólida.
+
+**Modelo isométrico del sistema, proyección sólida**
 
 ---
 
@@ -85,7 +86,7 @@ El proyecto se gestiona bajo el marco ágil **Scrum**, con entregables increment
 ![](Articulo/img/fig5_6.jpg)
 ![](Articulo/img/fig5_7.jpg)
 
-**Cronogama de actividades por sprints.
+**Cronogama de actividades por sprints.**
 
 ---
 
@@ -118,11 +119,9 @@ La implementación de Jira ha permitido:
 
 **🔗 Enlace al proyecto:** [Tablero Jira del Proyecto](https://alejandrosaulvega.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNzFkNmZjNzYxOTIxNGFiOTg2ZmFmN2EyNWFiMzAzZTkiLCJwIjoiaiJ9)
 
-<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">
-**Tablero de trabajo Jira.
+<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">**Tablero de trabajo Jira.** 
 
-<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">
-**Backlog Jira.
+<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">**Backlog Jira.**
 
 ---
 
@@ -141,4 +140,8 @@ Nuestro artículo científico fue desarrollado utilizando la plantilla oficial d
 ✅ Esta plantilla asegura que nuestra investigación cumple con los requisitos formales para su consideración en conferencias internacionales indexadas.
 
 **🔗 Plantilla de referencia:** <a href="Articulo/Conference-LaTeX/conference_101719.pdf" target="_blank"> Ver artículo Realizado</a>
+
+<img src="Articulo/latex/fig1.jpg" alt="Tablero Jira" width="70%">
+<img src="Articulo/latex/fig2.jpg" alt="Tablero Jira" width="70%">**Artículo en formato latex, mediante la aplicación TeXstudio** 
+
 ---
