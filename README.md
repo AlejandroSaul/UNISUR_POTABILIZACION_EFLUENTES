@@ -1,7 +1,3 @@
-
-[presentacion_proyecto_clarificacion.pptx](https://github.com/user-attachments/files/22436964/presentacion_proyecto_clarificacion.pptx)
-
-
 # 💧 Sistema de Clarificación Automatizado
 
 Este repositorio contiene el desarrollo de un sistema automatizado para la **clarificación y potabilización de efluentes contaminados**, utilizando **Moringa Oleífera** como floculante natural.  
@@ -120,9 +116,10 @@ La implementación de Jira ha permitido:
 **🔗 Enlace al proyecto:** [Tablero Jira del Proyecto](https://alejandrosaulvega.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNzFkNmZjNzYxOTIxNGFiOTg2ZmFmN2EyNWFiMzAzZTkiLCJwIjoiaiJ9)
 
 <img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">
+
 **Tablero de trabajo Jira.** 
 
-<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">
+<img src="Articulo/jira/fig2.jpg" alt="Backlog Jira" width="70%">
 
 **Backlog Jira.**
 
