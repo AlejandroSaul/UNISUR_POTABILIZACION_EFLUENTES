@@ -119,9 +119,12 @@ La implementación de Jira ha permitido:
 
 **🔗 Enlace al proyecto:** [Tablero Jira del Proyecto](https://alejandrosaulvega.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNzFkNmZjNzYxOTIxNGFiOTg2ZmFmN2EyNWFiMzAzZTkiLCJwIjoiaiJ9)
 
-<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">**Tablero de trabajo Jira.** 
+<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">
+**Tablero de trabajo Jira.** 
 
-<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">**Backlog Jira.**
+<img src="Articulo/jira/fig1.jpg" alt="Tablero Jira" width="70%">
+
+**Backlog Jira.**
 
 ---
 
@@ -142,6 +145,8 @@ Nuestro artículo científico fue desarrollado utilizando la plantilla oficial d
 **🔗 Plantilla de referencia:** <a href="Articulo/Conference-LaTeX/conference_101719.pdf" target="_blank"> Ver artículo Realizado</a>
 
 <img src="Articulo/latex/fig1.jpg" alt="Tablero Jira" width="70%">
-<img src="Articulo/latex/fig2.jpg" alt="Tablero Jira" width="70%">**Artículo en formato latex, mediante la aplicación TeXstudio** 
+<img src="Articulo/latex/fig2.jpg" alt="Tablero Jira" width="70%">
+
+**Artículo en formato latex, mediante la aplicación TeXstudio** 
 
 ---
