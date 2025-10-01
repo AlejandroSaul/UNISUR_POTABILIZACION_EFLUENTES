@@ -247,7 +247,7 @@
 		\item \textbf{Responsable:} equipo de ingeniería.
 		\item \textbf{Seguimiento:} bitácora digital de fallas.
 		\item \textbf{Gestión:} control de calidad basado en ISO/IEC 25010 \cite{b24}.
-		\item \textbf{Recuperación:} protocolos de reemplazo rápido de sensores y restauración de software.
+		\item \textbf{Recuperación:} protocolos de reemplazo rápido de sensores y restauración de software\cite{b25}.
 	\end{itemize}
 	
 	\section{Red de Tareas y Cronograma}
@@ -336,7 +336,7 @@ Diseño CAD y simulación: 1--2 (2 Semanas)\\
 	
 	El dispositivo está estructurado por medio de un conjunto de sistemas mecánicos y eléctricos de potencia que estarán controlados por un sistema embebido, ambos arreglos serán de diseño propio con base en las funciones de operatividad y portabilidad del prototipo, según sea el caso de la aplicación requerida (volumen del efluente, nivel de turbiedad, entre otros) como se muestra en la figura \ref{fig:6}.
 	
-	El sistema se basa en un microcontrolador PIC18F4550, seleccionado por su capacidad de procesamiento, puertos analógicos y comunicación USB. Se integran sensores de turbidez (TSD-10), TDS, pH, temperatura (DS18B20) y nivel (HC-SR04). Los actuadores incluyen motor de agitación, servoválvulas, bomba peristáltica y lámpara UV.
+	El sistema se basa en un microcontrolador PIC18F4550, seleccionado por su capacidad de procesamiento, puertos analógicos y comunicación USB. Se integran sensores de turbidez (TSD-10), TDS, pH, temperatura (DS18B20) y nivel (HC-SR04). Los actuadores incluyen motor de agitación, servoválvulas, bomba peristáltica y lámpara UV\cite{b26}.
 	
 	El código fue desarrollado en lenguaje C utilizando MPLAB X IDE. La arquitectura sigue el modelo modular orientado a eventos, con capas de abstracción para sensores, actuadores, lógica de control y comunicación. Se implementaron rutinas de filtrado digital, calibración automática y detección de fallos.
 	
@@ -357,7 +357,7 @@ Diseño CAD y simulación: 1--2 (2 Semanas)\\
 		\item Etapa de radiación UV del efluente.
 	\end{enumerate}
 	
-	Esta secuencia de acciones se presenta en la figura \ref{fig:7}, las cuales requieren establecer una plataforma de control adecuada y robusta para el prototipo adecuando de forma eficiente los instrumentos de medición para los parámetros referidos de control entre los que figuran en forma específica los valores de temperatura y nivel, como valores de arranque de proceso, así como de turbidez y pH. De esta manera, se generan las activaciones de los sistemas de bombeo de llenado, la aplicación del floculante, el accionamiento del agitador y por último el drenado y purificación final del efluente.
+	Esta secuencia de acciones se presenta en la figura \ref{fig:7}, las cuales requieren establecer una plataforma de control adecuada y robusta para el prototipo adecuando de forma eficiente los instrumentos de medición para los parámetros referidos de control entre los que figuran en forma específica los valores de temperatura y nivel, como valores de arranque de proceso, así como de turbidez y pH\cite{b27}. De esta manera, se generan las activaciones de los sistemas de bombeo de llenado, la aplicación del floculante, el accionamiento del agitador y por último el drenado y purificación final del efluente.
 	
 	\begin{figure}[htbp]
 		\centering
@@ -454,7 +454,7 @@ Cabe mencionar que aunado a estos valores se someterán a análisis los efluente
 
 \subsubsection{Análisis de turbidez}
 
-El primer parámetro y uno de los principales dada la naturaleza del proyecto propuesto, es el análisis de turbidez. Para medir este valor se debe medir la dispersión de la luz. En presencia de una solución turbia, la cantidad de luz transmitida es muy baja. Es decir, en el lado del receptor, se obtiene solo una luz de baja intensidad y esta intensidad es inversamente proporcional a la turbidez, figura \ref{fig:12}.
+El primer parámetro y uno de los principales dada la naturaleza del proyecto propuesto, es el análisis de turbidez. Para medir este valor se debe medir la dispersión de la luz. En presencia de una solución turbia, la cantidad de luz transmitida es muy baja\cite{b28}. Es decir, en el lado del receptor, se obtiene solo una luz de baja intensidad y esta intensidad es inversamente proporcional a la turbidez, figura \ref{fig:12}.
 
 \begin{figure}[htbp]
 	\centering
@@ -475,7 +475,7 @@ Con base al análisis indicado se aplica el algoritmo para este sensor, donde la
 
 \subsubsection{Análisis de TDS}
 
-El TDS es un valor que proporciona un referente de la dureza del agua que pueden generar detrimento en la salud. De esta forma la Organización Mundial de la Salud (OMS) y otras instituciones que regulan la calidad del agua consideran valores hasta los 500 mg/l como completamente seguros, y hasta 1200 mg/l como suficientemente seguros para consumir de manera temporal si no hay otra fuente de agua fácilmente disponible. El principio de funcionamiento de un lector de TDS se basa en la conductividad del agua, al tener en cuenta que todos los sólidos disueltos en el agua tienen cierta carga eléctrica. La medida que el lector utiliza es en PPM (Partes Por Millón). El principio de operación se evalúa en la figura \ref{fig:14}.
+El TDS es un valor que proporciona un referente de la dureza del agua que pueden generar detrimento en la salud. De esta forma la Organización Mundial de la Salud (OMS) y otras instituciones que regulan la calidad del agua consideran valores hasta los 500 mg/l como completamente seguros, y hasta 1200 mg/l como suficientemente seguros para consumir de manera temporal si no hay otra fuente de agua fácilmente disponible\cite{b29}. El principio de funcionamiento de un lector de TDS se basa en la conductividad del agua, al tener en cuenta que todos los sólidos disueltos en el agua tienen cierta carga eléctrica. La medida que el lector utiliza es en PPM (Partes Por Millón). El principio de operación se evalúa en la figura \ref{fig:14}.
 
 \begin{figure}[htbp]
 	\centering
