@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.7)  27 SEP 2025 09:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.9.7)  30 SEP 2025 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -322,31 +322,16 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box55
 ) (conference_101719.aux
 
-LaTeX Warning: Label `fig:esquema-sistema' multiply defined.
+LaTeX Warning: Label `tab:tabla01' multiply defined.
 
 
-LaTeX Warning: Label `fig:esquema-sistema' multiply defined.
+LaTeX Warning: Label `tab:tabla01' multiply defined.
 
 
-LaTeX Warning: Label `fig:esquema-sistema' multiply defined.
+LaTeX Warning: Label `tab:tabla01' multiply defined.
 
 
-LaTeX Warning: Label `fig:secuencia-acciones' multiply defined.
-
-
-LaTeX Warning: Label `fig:secuencia-acciones' multiply defined.
-
-
-LaTeX Warning: Label `fig:sensor-ph-temperatura' multiply defined.
-
-
-LaTeX Warning: Label `fig:sensor-ph-temperatura' multiply defined.
-
-
-LaTeX Warning: Label `fig:sensor-ph-temperatura' multiply defined.
-
-
-LaTeX Warning: Label `fig:sensor-ph-temperatura' multiply defined.
+LaTeX Warning: Label `tab:tabla01' multiply defined.
 
 )
 \openout1 = `conference_101719.aux'.
@@ -393,13 +378,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 56.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
 
  (C:\Users\adnto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
 
 
 (C:\Users\adnto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -408,10 +393,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <fig1.jpg, id=1, 389.65575pt x 483.60675pt>
 File: fig1.jpg Graphic file (type jpg)
 <use fig1.jpg>
-Package pdftex.def Info: fig1.jpg  used on input line 85.
+Package pdftex.def Info: fig1.jpg  used on input line 97.
 (pdftex.def)             Requested size: 252.0pt x 312.76888pt.
 
-Underfull \hbox (badness 4366) in paragraph at lines 92--93
+Underfull \hbox (badness 4366) in paragraph at lines 104--105
 \OT1/ptm/m/n/10 una pr[]actica com[]un en co-mu-nidades ru-rales y zonas
  []
 
@@ -423,147 +408,244 @@ nto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 <fig2.jpg, id=10, 672.111pt x 415.5525pt>
 File: fig2.jpg Graphic file (type jpg)
 <use fig2.jpg>
-Package pdftex.def Info: fig2.jpg  used on input line 101.
+Package pdftex.def Info: fig2.jpg  used on input line 113.
 (pdftex.def)             Requested size: 252.0pt x 155.80644pt.
 
-Underfull \hbox (badness 1412) in paragraph at lines 115--116
+Underfull \hbox (badness 1412) in paragraph at lines 127--128
 []\OT1/ptm/m/n/10 Brindar sim-pli-ci-dad de op-eraci[]on, sin necesi-dad de
  []
 
 <fig3.jpg, id=11, 614.89725pt x 401.70074pt>
 File: fig3.jpg Graphic file (type jpg)
 <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg  used on input line 141.
+Package pdftex.def Info: fig3.jpg  used on input line 153.
 (pdftex.def)             Requested size: 252.0pt x 164.6248pt.
 [2 <./fig1.jpg> <./fig2.jpg>]
 <fig4.jpg, id=16, 675.7245pt x 479.99326pt>
 File: fig4.jpg Graphic file (type jpg)
 <use fig4.jpg>
-Package pdftex.def Info: fig4.jpg  used on input line 181.
+Package pdftex.def Info: fig4.jpg  used on input line 193.
 (pdftex.def)             Requested size: 252.0pt x 179.00095pt.
  [3 <./fig3.jpg> <./fig4.jpg>]
 <fig5_1.jpg, id=25, 1091.87926pt x 319.1925pt>
 File: fig5_1.jpg Graphic file (type jpg)
 <use fig5_1.jpg>
-Package pdftex.def Info: fig5_1.jpg  used on input line 274.
+Package pdftex.def Info: fig5_1.jpg  used on input line 286.
 (pdftex.def)             Requested size: 252.0pt x 73.66599pt.
 <fig5_2.jpg, id=26, 1072.60725pt x 239.09325pt>
 File: fig5_2.jpg Graphic file (type jpg)
 <use fig5_2.jpg>
-Package pdftex.def Info: fig5_2.jpg  used on input line 281.
+Package pdftex.def Info: fig5_2.jpg  used on input line 293.
 (pdftex.def)             Requested size: 252.0pt x 56.17232pt.
 <fig5_3.jpg, id=27, 1091.277pt x 238.491pt>
 File: fig5_3.jpg Graphic file (type jpg)
 <use fig5_3.jpg>
-Package pdftex.def Info: fig5_3.jpg  used on input line 288.
+Package pdftex.def Info: fig5_3.jpg  used on input line 300.
 (pdftex.def)             Requested size: 252.0pt x 55.07011pt.
 <fig5_4.jpg, id=28, 1102.71976pt x 224.63925pt>
 File: fig5_4.jpg Graphic file (type jpg)
 <use fig5_4.jpg>
-Package pdftex.def Info: fig5_4.jpg  used on input line 295.
+Package pdftex.def Info: fig5_4.jpg  used on input line 307.
 (pdftex.def)             Requested size: 252.0pt x 51.33344pt.
 <fig5_5.jpg, id=29, 1075.01625pt x 236.082pt>
 File: fig5_5.jpg Graphic file (type jpg)
 <use fig5_5.jpg>
-Package pdftex.def Info: fig5_5.jpg  used on input line 302.
+Package pdftex.def Info: fig5_5.jpg  used on input line 314.
 (pdftex.def)             Requested size: 252.0pt x 55.33878pt.
 <fig5_6.jpg, id=30, 995.51926pt x 203.5605pt>
 File: fig5_6.jpg Graphic file (type jpg)
 <use fig5_6.jpg>
-Package pdftex.def Info: fig5_6.jpg  used on input line 309.
+Package pdftex.def Info: fig5_6.jpg  used on input line 321.
 (pdftex.def)             Requested size: 252.0pt x 51.52673pt.
 <fig5_7.jpg, id=31, 1088.868pt x 211.992pt>
 File: fig5_7.jpg Graphic file (type jpg)
 <use fig5_7.jpg>
-Package pdftex.def Info: fig5_7.jpg  used on input line 316.
+Package pdftex.def Info: fig5_7.jpg  used on input line 328.
 (pdftex.def)             Requested size: 252.0pt x 49.06119pt.
 <fig6.jpg, id=32, 575.751pt x 445.665pt>
 File: fig6.jpg Graphic file (type jpg)
 <use fig6.jpg>
-Package pdftex.def Info: fig6.jpg  used on input line 333.
+Package pdftex.def Info: fig6.jpg  used on input line 345.
 (pdftex.def)             Requested size: 226.79846pt x 175.55632pt.
  [4 <./fig5_1.jpg> <./fig5_2.jpg> <./fig5_3.jpg> <./fig5_4.jpg> <./fig5_5.jpg> 
 <./fig5_6.jpg> <./fig5_7.jpg>]
 <fig7.jpg, id=36, 744.98325pt x 428.19975pt>
 File: fig7.jpg Graphic file (type jpg)
 <use fig7.jpg>
-Package pdftex.def Info: fig7.jpg  used on input line 352.
+Package pdftex.def Info: fig7.jpg  used on input line 364.
 (pdftex.def)             Requested size: 252.0pt x 144.84113pt.
 <fig8.jpg, id=37, 359.54324pt x 1103.322pt>
 File: fig8.jpg Graphic file (type jpg)
 <use fig8.jpg>
-Package pdftex.def Info: fig8.jpg  used on input line 361.
+Package pdftex.def Info: fig8.jpg  used on input line 373.
 (pdftex.def)             Requested size: 151.20154pt x 463.99815pt.
- [5 <./fig6.jpg> <./fig7.jpg> <./fig8.jpg>]
-<fig9.jpg, id=41, 820.2645pt x 471.56175pt>
+<fig9.jpg, id=38, 820.2645pt x 471.56175pt>
 File: fig9.jpg Graphic file (type jpg)
 <use fig9.jpg>
-Package pdftex.def Info: fig9.jpg  used on input line 370.
+Package pdftex.def Info: fig9.jpg  used on input line 382.
 (pdftex.def)             Requested size: 151.20154pt x 86.92094pt.
- [6 <./fig9.jpg>]
+ [5 <./fig6.jpg> <./fig7.jpg>] [6 <./fig8.jpg> <./fig9.jpg>]
 <fig10.jpg, id=45, 778.70924pt x 503.481pt>
 File: fig10.jpg Graphic file (type jpg)
 <use fig10.jpg>
-Package pdftex.def Info: fig10.jpg  used on input line 417.
+Package pdftex.def Info: fig10.jpg  used on input line 429.
 (pdftex.def)             Requested size: 201.60077pt x 130.34114pt.
 <fig11.jpg, id=46, 548.64975pt x 489.027pt>
 File: fig11.jpg Graphic file (type jpg)
 <use fig11.jpg>
-Package pdftex.def Info: fig11.jpg  used on input line 426.
+Package pdftex.def Info: fig11.jpg  used on input line 438.
 (pdftex.def)             Requested size: 201.60077pt x 179.691pt.
 <fig12.jpg, id=47, 760.64175pt x 410.13225pt>
 File: fig12.jpg Graphic file (type jpg)
 <use fig12.jpg>
-Package pdftex.def Info: fig12.jpg  used on input line 449.
+Package pdftex.def Info: fig12.jpg  used on input line 461.
 (pdftex.def)             Requested size: 226.79846pt x 122.28964pt.
 <fig13.jpg, id=48, 860.013pt x 531.1845pt>
 File: fig13.jpg Graphic file (type jpg)
 <use fig13.jpg>
-Package pdftex.def Info: fig13.jpg  used on input line 459.
+Package pdftex.def Info: fig13.jpg  used on input line 471.
 (pdftex.def)             Requested size: 201.60077pt x 124.51227pt.
  [7 <./fig10.jpg> <./fig11.jpg> <./fig12.jpg>]
 <fig14.jpg, id=53, 857.00175pt x 384.2355pt>
 File: fig14.jpg Graphic file (type jpg)
 <use fig14.jpg>
-Package pdftex.def Info: fig14.jpg  used on input line 470.
+Package pdftex.def Info: fig14.jpg  used on input line 482.
 (pdftex.def)             Requested size: 201.60077pt x 90.38329pt.
 <fig15.jpg, id=54, 741.972pt x 534.798pt>
 File: fig15.jpg Graphic file (type jpg)
 <use fig15.jpg>
-Package pdftex.def Info: fig15.jpg  used on input line 479.
+Package pdftex.def Info: fig15.jpg  used on input line 491.
 (pdftex.def)             Requested size: 201.60077pt x 145.30318pt.
 <fig16.png, id=55, 436.63126pt x 483.60675pt>
 File: fig16.png Graphic file (type png)
 <use fig16.png>
-Package pdftex.def Info: fig16.png  used on input line 490.
+Package pdftex.def Info: fig16.png  used on input line 502.
 (pdftex.def)             Requested size: 226.79846pt x 251.19653pt.
-<fig17.png, id=57, 540.8205pt x 362.5545pt>
+ [8 <./fig13.jpg> <./fig14.jpg> <./fig15.jpg> <./fig16.png>]
+<fig17.png, id=61, 540.8205pt x 362.5545pt>
 File: fig17.png Graphic file (type png)
 <use fig17.png>
-Package pdftex.def Info: fig17.png  used on input line 503.
+Package pdftex.def Info: fig17.png  used on input line 515.
 (pdftex.def)             Requested size: 226.79846pt x 152.0395pt.
- [8 <./fig13.jpg> <./fig14.jpg> <./fig15.jpg> <./fig16.png>]
 <fig18.png, id=62, 536.0025pt x 410.7345pt>
 File: fig18.png Graphic file (type png)
 <use fig18.png>
-Package pdftex.def Info: fig18.png  used on input line 512.
+Package pdftex.def Info: fig18.png  used on input line 524.
 (pdftex.def)             Requested size: 226.79846pt x 173.7921pt.
 <fig19.png, id=63, 542.025pt x 284.262pt>
 File: fig19.png Graphic file (type png)
 <use fig19.png>
-Package pdftex.def Info: fig19.png  used on input line 521.
+Package pdftex.def Info: fig19.png  used on input line 533.
 (pdftex.def)             Requested size: 226.79846pt x 118.94246pt.
-File: fig19.png Graphic file (type png)
-<use fig19.png>
-Package pdftex.def Info: fig19.png  used on input line 534.
-(pdftex.def)             Requested size: 226.79846pt x 118.94246pt.
+<fig20.png, id=64, 564.30824pt x 479.99326pt>
+File: fig20.png Graphic file (type png)
+<use fig20.png>
+Package pdftex.def Info: fig20.png  used on input line 546.
+(pdftex.def)             Requested size: 201.60077pt x 171.4791pt.
+ [9 <./fig17.png> <./fig18.png> <./fig19.png>]
 
-Underfull \hbox (badness 4341) in paragraph at lines 541--542
+LaTeX Warning: Reference `tab:iso25010' on page 10 undefined on input line 574.
+
+
+<tabla01.jpg, id=71, 677.53125pt x 448.67625pt>
+File: tabla01.jpg Graphic file (type jpg)
+<use tabla01.jpg>
+Package pdftex.def Info: tabla01.jpg  used on input line 581.
+(pdftex.def)             Requested size: 258.0pt x 170.85475pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 581--583
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig21.jpg, id=72, 380.622pt x 446.8695pt>
+File: fig21.jpg Graphic file (type jpg)
+<use fig21.jpg>
+Package pdftex.def Info: fig21.jpg  used on input line 597.
+(pdftex.def)             Requested size: 201.60077pt x 236.69652pt.
+[10 <./fig20.png> <./tabla01.jpg> <./fig21.jpg>]
+<tabla2.jpg, id=77, 886.512pt x 326.4195pt>
+File: tabla2.jpg Graphic file (type jpg)
+<use tabla2.jpg>
+Package pdftex.def Info: tabla2.jpg  used on input line 614.
+(pdftex.def)             Requested size: 258.0pt x 94.99791pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 614--616
+ [][] 
+ []
+
+<tabla3.jpg, id=78, 648.62325pt x 295.70474pt>
+File: tabla3.jpg Graphic file (type jpg)
+<use tabla3.jpg>
+Package pdftex.def Info: tabla3.jpg  used on input line 625.
+(pdftex.def)             Requested size: 258.0pt x 117.62553pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 625--627
+ [][] 
+ []
+
+<tabla4.jpg, id=79, 669.702pt x 302.3295pt>
+File: tabla4.jpg Graphic file (type jpg)
+<use tabla4.jpg>
+Package pdftex.def Info: tabla4.jpg  used on input line 632.
+(pdftex.def)             Requested size: 258.0pt x 116.47333pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 632--634
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tabla5.jpg, id=80, 696.201pt x 310.761pt>
+File: tabla5.jpg Graphic file (type jpg)
+<use tabla5.jpg>
+Package pdftex.def Info: tabla5.jpg  used on input line 639.
+(pdftex.def)             Requested size: 258.0pt x 115.15996pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 639--641
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
+51.
+(C:\Users\adnto\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[11 <./tabla2.jpg> <./tabla3.jpg> <./tabla4.jpg> <./tabla5.jpg>]
+<fig22.jpg, id=84, 639.5895pt x 522.15076pt>
+File: fig22.jpg Graphic file (type jpg)
+<use fig22.jpg>
+Package pdftex.def Info: fig22.jpg  used on input line 670.
+(pdftex.def)             Requested size: 252.0pt x 205.72542pt.
+<fig23.jpg, id=85, 617.9085pt x 414.348pt>
+File: fig23.jpg Graphic file (type jpg)
+<use fig23.jpg>
+Package pdftex.def Info: fig23.jpg  used on input line 677.
+(pdftex.def)             Requested size: 252.0pt x 168.97966pt.
+
+Underfull \hbox (badness 2096) in paragraph at lines 687--688
+[]\OT1/ptm/m/n/10 Escalabilidad: el sis-tema ac-tual est[]a dise[]nado para
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 692--693
+[]\OT1/ptm/m/n/10 El de-sar-rollo del sis-tema em-be-bido para clar-i-fi-caci[]
+on
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 709--710
 \OT1/ptm/m/n/8 Julio 26, 2017. [En l[]^^Pnea]. Disponible en: $https : / / agua
  . org . mx /
  []
 
-[9 <./fig17.png> <./fig18.png> <./fig19.png>]
+[12 <./fig22.jpg> <./fig23.jpg>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -575,7 +657,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[10
+[13
 
 ] (conference_101719.aux)
  ***********
@@ -584,17 +666,20 @@ L3 programming layer <2024-01-04>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5037 strings out of 474485
- 80264 string characters out of 5743735
- 1945542 words of memory out of 5000000
- 27260 multiletter control sequences out of 15000+600000
- 599718 words of font info for 122 fonts, out of 8000000 for 9000
+ 5159 strings out of 474485
+ 81845 string characters out of 5743735
+ 1946542 words of memory out of 5000000
+ 27377 multiletter control sequences out of 15000+600000
+ 601756 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,914b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,924b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/adnto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmmi10.pfb><C:/Users/adnto/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi7.pfb><C:/Users/adnto/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -606,9 +691,9 @@ l/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/adnto/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/adnto/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/adnto/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (10 pages, 3246974 bytes).
+Output written on conference_101719.pdf (13 pages, 4133166 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
